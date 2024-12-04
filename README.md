@@ -7,4 +7,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riquevianna93&show_icons=true&theme=synthwave)
 
-![Demo](https://github-readme-stats.vercel.app/api/top-langs/?username=riquevianna93&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riquevianna93&hide_progress=true)
