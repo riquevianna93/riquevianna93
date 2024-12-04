@@ -5,6 +5,6 @@
 - 📷  Apaixonado por fotografias
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riquevianna93&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riquevianna93&show_icons=true&theme=synthwave)
 
 ![Demo](https://github-readme-stats.vercel.app/api/top-langs/?username=riquevianna93&hide_progress=true)
