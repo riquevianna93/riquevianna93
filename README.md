@@ -2,7 +2,7 @@
 - 💻  Graduado em Gestão Da Tecnologia Da Informação
 - 📚  Cursando a 2° graduação / Banco de Dados
 - 📷  Estudando Python
-- 📷  Apaixonado por fotografias
+  
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riquevianna93&show_icons=true&theme=synthwave)
