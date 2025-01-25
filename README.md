@@ -1,4 +1,4 @@
-- ✔ Olá,eu sou Henrique
+- ✔ Olá,eu sou o Henrique
 - 💻  Graduado em Gestão Da Tecnologia Da Informação
 - 📚  Cursando a 2° graduação / Banco de Dados
 - 📷  Estudando Python
